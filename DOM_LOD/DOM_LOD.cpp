@@ -7,6 +7,7 @@
 
 int main()
 {
+
 	QString FileOriPath = "E://M4//SIM//DOM.obj"; //DOM file path
 	QString FileSavePath = "E://LOD";//LOD model output path
 
